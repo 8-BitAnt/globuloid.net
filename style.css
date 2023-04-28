@@ -3,6 +3,11 @@ html {
   width: 100%;
 }
 
+@font-face {
+    font-family: ComicSans;
+    src: url(fonts/ComicSansMS3.ttf);
+}
+
 body{
   background-color: black;
   background-image: url("images/shinestars.gif");
@@ -10,5 +15,12 @@ body{
 
 h1{
   color: white;
+  background-color: black;
+  width: 500px;
   text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: solid white 3px;
+  font-family: ComicSans;
 }
