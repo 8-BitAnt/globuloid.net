@@ -13,7 +13,7 @@ body{
   background-image: url("images/shinestars.gif");
 }
 
-h1{
+.welcome{
   color: #3aee33;
   background-color: black;
   width: 500px;
@@ -23,16 +23,23 @@ h1{
   border-radius: 10px;
   border: solid #045700 3px;
   font-family: ComicSans;
+  line-height:50px
+  text-align: center;
 }
 
 h2{
   color: #ff0000;
   background-color: black;
   width: 500px;
-  text-align: center;
   margin: 0 auto;
   margin-top: 20px;
   border-radius: 10px;
   border: solid #7b1e1e 3px;
   font-family: ComicSans;
+}
+
+.logo{
+  vertical-align:middle;
+  margin-bottom: 8px;
+  height: 32px;
 }
