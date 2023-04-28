@@ -14,13 +14,25 @@ body{
 }
 
 h1{
-  color: white;
+  color: #3aee33;
   background-color: black;
   width: 500px;
   text-align: center;
   margin: 0 auto;
   margin-top: 20px;
   border-radius: 10px;
-  border: solid white 3px;
+  border: solid #045700 3px;
+  font-family: ComicSans;
+}
+
+h2{
+  color: #ff0000;
+  background-color: black;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: solid #7b1e1e 3px;
   font-family: ComicSans;
 }
