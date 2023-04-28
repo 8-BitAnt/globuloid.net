@@ -47,7 +47,7 @@ body{
 
 .center {
   /* width: 50%;  set the width of the div */
-  height: 50vh; /* set the height of the div */
+  /* height: 50vh; set the height of the div */
   display: flex; /* use flexbox layout */
   align-items: center; /* center items vertically */
   justify-content: center; /* center items horizontally */
