@@ -23,23 +23,24 @@ body{
   border-radius: 10px;
   border: solid #045700 3px;
   font-family: ComicSans;
-  line-height:50px
-  text-align: center;
-}
-
-h2{
-  color: #ff0000;
-  background-color: black;
-  width: 500px;
-  margin: 0 auto;
-  margin-top: 20px;
-  border-radius: 10px;
-  border: solid #7b1e1e 3px;
-  font-family: ComicSans;
+  line-height: 50px;
 }
 
 .logo{
   vertical-align:middle;
   margin-bottom: 8px;
   height: 32px;
+}
+
+.error{
+  color: #ff0000;
+  background-color: black;
+  width: 40%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: solid #570000 3px;
+  font-family: ComicSans;
+  line-height: 50px;
 }
