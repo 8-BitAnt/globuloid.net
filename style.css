@@ -2,3 +2,13 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body{
+  background-color: black;
+  background-image: url("images/shinestars.gif");
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
