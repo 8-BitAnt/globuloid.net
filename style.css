@@ -13,7 +13,7 @@ body{
   background-image: url("images/shinestars.gif");
 }
 
-h1{
+.welcH1{
   margin-bottom: 0.5px;
 }
 
@@ -33,6 +33,47 @@ h4{
   border: solid #045700 3px;
   font-family: ComicSans;
   line-height: 50px;
+}
+
+.back{
+  color: #3aee33;
+  background-color: black;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: solid #045700 3px;
+  font-family: ComicSans;
+  line-height: 50px;
+}
+
+a.backa:link {
+    color: #4af74a;
+     font-weight: normal;
+     font-style: normal;
+     text-decoration: none
+}
+
+a.backa:visited {
+    color: #4af74a;
+     font-weight: normal;
+     font-style: normal;
+     text-decoration: none
+}
+
+a.backa:active {
+    color: #00A000;
+     font-weight: normal;
+     font-style: normal;
+     text-decoration: underline
+}
+
+a.backa:hover {
+    color: #00A000;
+     font-weight: normal;
+     font-style: normal;
+     text-decoration: underline
 }
 
 .logo{
@@ -79,11 +120,13 @@ h4{
   /* height: 50vh; set the height of the div */
   display: flex; /* use flexbox layout */
   align-items: center; /* center items vertically */
-  justify-content: center; /* center items horizontally */
+  justify-content: center; /* center items 
+  horizontally */
 }
 
 .container {
-  height: 120vh;
+  width: 140vh;
+  height: 70vh;
   display: flex;
   align-items: center;
   justify-content: center;
