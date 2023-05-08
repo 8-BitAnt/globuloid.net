@@ -68,6 +68,12 @@ h4{
   line-height: 50px;
 }
 
+.table{
+  border-radius: 5px;
+  border: ridge #2e6f42 8px;
+  width: 940px;
+}
+
 .center {
   /* width: 50%;  set the width of the div */
   /* height: 50vh; set the height of the div */
@@ -154,14 +160,8 @@ h4{
   }
 }
 
-.table{
-  border-radius: 5px;
-  border: solid #045700 8px;
-  width: 940px;
-}
-
 a.Menu:link {
-    color: #006000;
+    color: #4af74a;
      font-size: 10pt;
      font-weight: normal;
      font-style: normal;
@@ -169,7 +169,7 @@ a.Menu:link {
 }
 
 a.Menu:visited {
-    color: #006000;
+    color: #4af74a;
      font-size: 10pt;
      font-weight: normal;
      font-style: normal;
@@ -201,7 +201,7 @@ a.Title:link {
 }
 
 a.Title:visited {
-    color: #961619;
+    color: #000000;
      font-size: 16pt;
      font-weight: normal;
      font-style: italic;
@@ -210,7 +210,7 @@ a.Title:visited {
 
 a.Title:active {
     background-color: #961619;
-     color: #E1FFE1;
+     color: #000e00;
      font-size: 16pt;
      font-weight: normal;
      font-style: italic;
@@ -219,7 +219,7 @@ a.Title:active {
 
 a.Title:hover {
     background-color: #961619;
-     color: #E1FFE1;
+     color: #000e00;
      font-size: 16pt;
      font-weight: normal;
      font-style: italic;
@@ -244,7 +244,7 @@ a.SmallTitle:visited {
 
 a.SmallTitle:active {
     background-color: #961619;
-     color: #E1FFE1;
+     color: #000e00;
      font-size: 9pt;
      font-weight: normal;
      font-style: italic;
@@ -253,7 +253,7 @@ a.SmallTitle:active {
 
 a.SmallTitle:hover {
     background-color: #961619;
-     color: #E1FFE1;
+     color: #000e00;
      font-size: 9pt;
      font-weight: normal;
      font-style: italic;
@@ -278,7 +278,7 @@ a.Text:visited {
 
 a.Text:active {
     background-color: #000000;
-     color: #E1FFE1;
+     color: #000e00;
      font-size: 9pt;
      font-weight: normal;
      font-style: normal;
@@ -287,7 +287,7 @@ a.Text:active {
 
 a.Text:hover {
     background-color: #000000;
-     color: #E1FFE1;
+     color: #000e00;
      font-size: 9pt;
      font-weight: normal;
      font-style: normal;
@@ -312,7 +312,7 @@ a.Link:visited {
 
 a.Link:active {
     background-color: #000000;
-     color: #E1FFE1;
+     color: #000e00;
      font-size: 9pt;
      font-weight: normal;
      font-style: italic;
@@ -321,7 +321,7 @@ a.Link:active {
 
 a.Link:hover {
     background-color: #000000;
-     color: #E1FFE1;
+     color: #000e00;
      font-size: 9pt;
      font-weight: normal;
      font-style: italic;
@@ -414,7 +414,7 @@ a.TableLink:visited {
 
 a.TableLink:active {
     background-color: #000000;
-     color: #A1FFA1;
+     color: #81ff81;
      font-size: 9pt;
      font-weight: normal;
      font-style: normal;
@@ -553,7 +553,7 @@ a.Foot:hover {
 }
 
 .Foot {
-    color:#008000;
+    color:#c4f2c4;
      font-family: "Courier New, Courier, mono";
      font-size: 9pt;
      font-weight: normal;
