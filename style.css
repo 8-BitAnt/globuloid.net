@@ -17,9 +17,40 @@ body{
   margin-bottom: 0.5px;
 }
 
+.H1Table{
+  color: #3aee33;
+  font-family: ComicSans;
+  text-align: center;
+}
+
 h4{
   margin-top: 0.5px;
   text-decoration: italic;
+}
+
+.rainbow {
+  text-align: center;
+  animation: colorRotate 6s linear 0s infinite;
+  font-family: ComicSans;
+  text-align: center;
+}
+
+@keyframes colorRotate {
+  from {
+    color: #6666ff;
+  }
+  10% {
+    color: #0099ff;
+  }
+  50% {
+    color: #00ff00;
+  }
+  75% {
+    color: #ff3399;
+  }
+  100% {
+    color: #6666ff;
+  }
 }
 
 .welcome{
@@ -111,9 +142,22 @@ a.backa:hover {
 
 .table{
   border-radius: 5px;
-  border: ridge #2e6f42 8px;
+  border: ridge #439d5e 8px;
   width: 940px;
 }
+
+img{
+  image-rendering: -webkit-optimize-contrast;
+}
+
+.imgBottom{
+}
+
+/* th,td {
+
+border: 1px solid white;
+
+} */
 
 .center {
   /* width: 50%;  set the width of the div */
