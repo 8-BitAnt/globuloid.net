@@ -146,18 +146,14 @@ a.backa:hover {
   width: 940px;
 }
 
-img{
-  image-rendering: -webkit-optimize-contrast;
-}
-
-.imgBottom{
-  margin-bottom: -37.70%;
+iframe{
+  margin: auto 0;
+  border-radius: 15px;
+  border: solid #045700 3px;
 }
 
 /* th,td {
-
 border: 1px solid white;
-
 } */
 
 .center {
