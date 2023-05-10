@@ -127,6 +127,12 @@ a.backa:hover {
   transform: scaleX(-1);
 }
 
+.slimer{
+  vertical-align: middle;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
 .error{
   color: #ff0000;
   background-color: black;
