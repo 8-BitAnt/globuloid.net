@@ -142,9 +142,14 @@ a.backa:hover {
 }
 
 .slimer{
-  vertical-align: middle;
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
+  margin-left: 10px;
+}
+
+.slimer-flip{
+  float: right;
+  margin-right: 10px;
 }
 
 .error{
@@ -172,10 +177,10 @@ iframe{
   border: solid #045700 3px;
 }
 
-th,td {
+/* th,td {
 border: 1px solid white;
 }
-
+ */
 .center {
   /* width: 50%;  set the width of the div */
   /* height: 50vh; set the height of the div */
