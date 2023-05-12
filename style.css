@@ -21,6 +21,16 @@ body{
   color: #3aee33;
   font-family: ComicSans;
   text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.H2Table{
+  color: #fbff00;
+  font-family: ComicSans;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 h4{
@@ -113,6 +123,10 @@ a.backa:hover {
   height: 32px;
 }
 
+.kreg{
+  border-radius: 10px;
+}
+
 .slime{
   vertical-align:middle;
   margin-bottom: 4px;
@@ -158,9 +172,9 @@ iframe{
   border: solid #045700 3px;
 }
 
-/* th,td {
+th,td {
 border: 1px solid white;
-} */
+}
 
 .center {
   /* width: 50%;  set the width of the div */
