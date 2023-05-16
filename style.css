@@ -173,6 +173,12 @@ a.backa:hover {
   border-radius: 10px;
 }
 
+img{
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
 .error{
   color: #ff0000;
   background-color: black;
