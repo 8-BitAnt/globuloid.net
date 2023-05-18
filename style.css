@@ -33,6 +33,10 @@ body{
   margin-right: 10px;
 }
 
+a{
+  color: #fbff00;
+}
+
 h4{
   margin-top: 0.5px;
   text-decoration: italic;
