@@ -1,52 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://www.globuloid.net/</loc>
-  <lastmod>2023-05-18T21:37:05+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://www.globuloid.net/</loc>
+<lastmod>2023-05-23T18:02:20+00:00</lastmod>
 </url>
 <url>
-  <loc>https://www.globuloid.net/findmyglobuloid-app/</loc>
-  <lastmod>2023-05-18T21:37:05+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.globuloid.net/404</loc>
+<lastmod>2023-05-18T21:25:32+00:00</lastmod>
 </url>
 <url>
-  <loc>https://www.globuloid.net/globuloid-resources/</loc>
-  <lastmod>2023-05-18T21:37:05+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.globuloid.net/glob-care.pdf</loc>
+<lastmod>2023-05-18T21:25:32+00:00</lastmod>
 </url>
 <url>
-  <loc>https://www.globuloid.net/virtual-globuloid/</loc>
-  <lastmod>2023-05-18T21:37:05+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.globuloid.net/about-us/</loc>
+<lastmod>2023-05-18T21:25:32+00:00</lastmod>
 </url>
 <url>
-  <loc>https://www.globuloid.net/about-us/</loc>
-  <lastmod>2023-05-18T21:37:05+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.globuloid.net/findmyglobuloid-app/</loc>
+<lastmod>2023-05-18T21:25:32+00:00</lastmod>
 </url>
 <url>
-  <loc>https://www.globuloid.net/glob-care.pdf</loc>
-  <lastmod>2023-05-18T21:37:05+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.globuloid.net/globuloid-resources/</loc>
+<lastmod>2023-05-18T21:36:20+00:00</lastmod>
 </url>
 <url>
-  <loc>https://www.globuloid.net/404</loc>
-  <lastmod>2023-05-18T21:37:05+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.globuloid.net/virtual-globuloid/</loc>
+<lastmod>2023-05-16T21:15:46+00:00</lastmod>
 </url>
 <url>
-  <loc>https://www.globuloid.net/about-us/our-founder/</loc>
-  <lastmod>2023-05-18T21:37:05+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.globuloid.net/about-us/our-founder/</loc>
+<lastmod>2023-05-22T17:47:37+00:00</lastmod>
 </url>
-
-
 </urlset>
